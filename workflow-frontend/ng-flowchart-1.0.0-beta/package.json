@@ -4,7 +4,9 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build ng-flowchart --configuration production",
+    "build:ng-flowchart": "ng build ng-flowchart --configuration production",
+    "build:workspace": "ng build workspace --configuration production",
+    "build": "npm run build:ng-flowchart && npm run build:workspace",
     "test": "ng test",
     "lint": "ng lint --fix",
     "prettier": "npx prettier --write .",

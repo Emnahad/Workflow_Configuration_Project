@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Reporting.Infrastracture
-build_property.ProjectDir = d:\Workflow_Configuration_Project\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Infrastracture\
+build_property.ProjectDir = d:\Downloads\Workflow_Configuration_Project-main\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Infrastracture\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
