@@ -1,0 +1,583 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BackEnd\\QualityProcessBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|QualityProcessBackEnd\\QualityProcessBackEnd.csproj|d:\\backend\\qualityprocessbackend\\qualityprocessbackend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|QualityProcessBackEnd\\QualityProcessBackEnd.csproj|solutionrelative:qualityprocessbackend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A523D6-0C6E-4477-A1E2-B46C0F2144A6}|QualityProcess.Application\\QualityProcess.Application.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.application\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A523D6-0C6E-4477-A1E2-B46C0F2144A6}|QualityProcess.Application\\QualityProcess.Application.csproj|solutionrelative:qualityprocess.application\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|QualityProcessBackEnd\\QualityProcessBackEnd.csproj|d:\\backend\\qualityprocessbackend\\qualityprocessbackend\\helpers\\authorizeattribute .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|QualityProcessBackEnd\\QualityProcessBackEnd.csproj|solutionrelative:qualityprocessbackend\\helpers\\authorizeattribute .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|QualityProcessBackEnd\\QualityProcessBackEnd.csproj|d:\\backend\\qualityprocessbackend\\qualityprocessbackend\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|QualityProcessBackEnd\\QualityProcessBackEnd.csproj|solutionrelative:qualityprocessbackend\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|QualityProcessBackEnd\\QualityProcessBackEnd.csproj|d:\\backend\\qualityprocessbackend\\qualityprocessbackend\\helpers\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|QualityProcessBackEnd\\QualityProcessBackEnd.csproj|solutionrelative:qualityprocessbackend\\helpers\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A523D6-0C6E-4477-A1E2-B46C0F2144A6}|QualityProcess.Application\\QualityProcess.Application.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A523D6-0C6E-4477-A1E2-B46C0F2144A6}|QualityProcess.Application\\QualityProcess.Application.csproj|solutionrelative:qualityprocess.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|QualityProcessBackEnd\\QualityProcessBackEnd.csproj|d:\\backend\\qualityprocessbackend\\qualityprocessbackend\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|QualityProcessBackEnd\\QualityProcessBackEnd.csproj|solutionrelative:qualityprocessbackend\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A523D6-0C6E-4477-A1E2-B46C0F2144A6}|QualityProcess.Application\\QualityProcess.Application.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.application\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A523D6-0C6E-4477-A1E2-B46C0F2144A6}|QualityProcess.Application\\QualityProcess.Application.csproj|solutionrelative:qualityprocess.application\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.core\\iservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|solutionrelative:qualityprocess.core\\iservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.core\\entities\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|solutionrelative:qualityprocess.core\\entities\\authenticateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|solutionrelative:qualityprocess.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|solutionrelative:qualityprocess.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|QualityProcessBackEnd\\QualityProcessBackEnd.csproj|d:\\backend\\qualityprocessbackend\\qualityprocessbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|QualityProcessBackEnd\\QualityProcessBackEnd.csproj|solutionrelative:qualityprocessbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEF53DB-9525-4034-9F23-24E5B580B8F6}|QualityProcess.Infrastracture\\QualityProcess.Infrastracture.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.infrastracture\\configuration\\qualityprocessdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEF53DB-9525-4034-9F23-24E5B580B8F6}|QualityProcess.Infrastracture\\QualityProcess.Infrastracture.csproj|solutionrelative:qualityprocess.infrastracture\\configuration\\qualityprocessdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|QualityProcessBackEnd\\QualityProcessBackEnd.csproj|d:\\backend\\qualityprocessbackend\\qualityprocessbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|QualityProcessBackEnd\\QualityProcessBackEnd.csproj|solutionrelative:qualityprocessbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A523D6-0C6E-4477-A1E2-B46C0F2144A6}|QualityProcess.Application\\QualityProcess.Application.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.application\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A523D6-0C6E-4477-A1E2-B46C0F2144A6}|QualityProcess.Application\\QualityProcess.Application.csproj|solutionrelative:qualityprocess.application\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.core\\iservice\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|solutionrelative:qualityprocess.core\\iservice\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.core\\entities\\rolegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|solutionrelative:qualityprocess.core\\entities\\rolegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|solutionrelative:qualityprocess.core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEF53DB-9525-4034-9F23-24E5B580B8F6}|QualityProcess.Infrastracture\\QualityProcess.Infrastracture.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.infrastracture\\configuration\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEF53DB-9525-4034-9F23-24E5B580B8F6}|QualityProcess.Infrastracture\\QualityProcess.Infrastracture.csproj|solutionrelative:qualityprocess.infrastracture\\configuration\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.core\\iservice\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|solutionrelative:qualityprocess.core\\iservice\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.core\\entities\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|solutionrelative:qualityprocess.core\\entities\\authenticaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|QualityProcessBackEnd\\QualityProcessBackEnd.csproj|d:\\backend\\qualityprocessbackend\\qualityprocessbackend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|QualityProcessBackEnd\\QualityProcessBackEnd.csproj|solutionrelative:qualityprocessbackend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.core\\dtos\\fieldstructuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|solutionrelative:qualityprocess.core\\dtos\\fieldstructuredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.core\\iservice\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|solutionrelative:qualityprocess.core\\iservice\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.core\\entities\\fieldstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|solutionrelative:qualityprocess.core\\entities\\fieldstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.core\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|solutionrelative:qualityprocess.core\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.core\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|solutionrelative:qualityprocess.core\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.core\\entities\\reviewtestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|solutionrelative:qualityprocess.core\\entities\\reviewtestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.core\\entities\\reviewticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|solutionrelative:qualityprocess.core\\entities\\reviewticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|d:\\backend\\qualityprocessbackend\\qualityprocess.core\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BADD274-EDBB-4AAB-AB16-C998EE7D1AD7}|QualityProcess.Core\\QualityProcess.Core.csproj|solutionrelative:qualityprocess.core\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BackEnd\\QualityProcess\\QualityProcess\\QualityProcess.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BackEnd\\QualityProcess\\QualityProcess\\QualityProcessBackEnd.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BackEnd\\QualityProcess\\QualityProcess\\QualityProcessBackEnd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcessBackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "QualityProcessBackEnd\\Program.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcessBackEnd\\Program.cs",
+              "RelativeToolTip": "QualityProcessBackEnd\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:59:03.035Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Application\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Application\\Services\\LoginService.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Application\\Services\\LoginService.cs",
+              "RelativeToolTip": "QualityProcess.Application\\Services\\LoginService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAMwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:32:19.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcessBackEnd\\Helpers\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "QualityProcessBackEnd\\Helpers\\JwtMiddleware.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcessBackEnd\\Helpers\\JwtMiddleware.cs",
+              "RelativeToolTip": "QualityProcessBackEnd\\Helpers\\JwtMiddleware.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwCUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:04:52.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcessBackEnd\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "QualityProcessBackEnd\\Controllers\\ReviewController.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcessBackEnd\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "QualityProcessBackEnd\\Controllers\\ReviewController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:46:37.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Application\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Application\\Services\\ReviewService.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Application\\Services\\ReviewService.cs",
+              "RelativeToolTip": "QualityProcess.Application\\Services\\ReviewService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:49:49.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorizeAttribute .cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcessBackEnd\\Helpers\\AuthorizeAttribute .cs",
+              "RelativeDocumentMoniker": "QualityProcessBackEnd\\Helpers\\AuthorizeAttribute .cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcessBackEnd\\Helpers\\AuthorizeAttribute .cs",
+              "RelativeToolTip": "QualityProcessBackEnd\\Helpers\\AuthorizeAttribute .cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:03:40.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\IService\\IUserService.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Core\\IService\\IUserService.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\IService\\IUserService.cs",
+              "RelativeToolTip": "QualityProcess.Core\\IService\\IUserService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:20:42.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthenticateResponse.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\AuthenticateResponse.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Core\\Entities\\AuthenticateResponse.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\AuthenticateResponse.cs",
+              "RelativeToolTip": "QualityProcess.Core\\Entities\\AuthenticateResponse.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:15:58.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcessBackEnd\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "QualityProcessBackEnd\\Controllers\\GroupsController.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcessBackEnd\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "QualityProcessBackEnd\\Controllers\\GroupsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:28:24.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcessBackEnd\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "QualityProcessBackEnd\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcessBackEnd\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "QualityProcessBackEnd\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:35:31.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Core\\Entities\\User.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\User.cs",
+              "RelativeToolTip": "QualityProcess.Core\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:21:38.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Application\\Services\\UserService.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "QualityProcess.Application\\Services\\UserService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:21:39.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Core\\DTOs\\UserDTO.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "QualityProcess.Core\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:15:38.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcessBackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "QualityProcessBackEnd\\appsettings.json",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcessBackEnd\\appsettings.json",
+              "RelativeToolTip": "QualityProcessBackEnd\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T09:50:15.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QualityProcessDatabaseSettings.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Infrastracture\\Configuration\\QualityProcessDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Infrastracture\\Configuration\\QualityProcessDatabaseSettings.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Infrastracture\\Configuration\\QualityProcessDatabaseSettings.cs",
+              "RelativeToolTip": "QualityProcess.Infrastracture\\Configuration\\QualityProcessDatabaseSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:48:04.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Infrastracture\\Configuration\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Infrastracture\\Configuration\\JwtOptions.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Infrastracture\\Configuration\\JwtOptions.cs",
+              "RelativeToolTip": "QualityProcess.Infrastracture\\Configuration\\JwtOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:06:11.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Application\\Services\\GroupService.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Application\\Services\\GroupService.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Application\\Services\\GroupService.cs",
+              "RelativeToolTip": "QualityProcess.Application\\Services\\GroupService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:06:28.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGroupService.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\IService\\IGroupService.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Core\\IService\\IGroupService.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\IService\\IGroupService.cs",
+              "RelativeToolTip": "QualityProcess.Core\\IService\\IGroupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:07:20.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Core\\Entities\\Role.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\Role.cs",
+              "RelativeToolTip": "QualityProcess.Core\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:32:57.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\IService\\ILoginService.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Core\\IService\\ILoginService.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\IService\\ILoginService.cs",
+              "RelativeToolTip": "QualityProcess.Core\\IService\\ILoginService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:13:09.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoleGroup.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\RoleGroup.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Core\\Entities\\RoleGroup.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\RoleGroup.cs",
+              "RelativeToolTip": "QualityProcess.Core\\Entities\\RoleGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:35:07.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthenticateRequest.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\AuthenticateRequest.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Core\\Entities\\AuthenticateRequest.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\AuthenticateRequest.cs*",
+              "RelativeToolTip": "QualityProcess.Core\\Entities\\AuthenticateRequest.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:15:10.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcessBackEnd\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "QualityProcessBackEnd\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcessBackEnd\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "QualityProcessBackEnd\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:32:07.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FieldStructureDTO.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\DTOs\\FieldStructureDTO.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Core\\DTOs\\FieldStructureDTO.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\DTOs\\FieldStructureDTO.cs",
+              "RelativeToolTip": "QualityProcess.Core\\DTOs\\FieldStructureDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:42:21.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Core\\Entities\\Review.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\Review.cs",
+              "RelativeToolTip": "QualityProcess.Core\\Entities\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:15:26.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\IService\\IReviewService.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Core\\IService\\IReviewService.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\IService\\IReviewService.cs",
+              "RelativeToolTip": "QualityProcess.Core\\IService\\IReviewService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:48:36.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FieldStructure.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\FieldStructure.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Core\\Entities\\FieldStructure.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\FieldStructure.cs",
+              "RelativeToolTip": "QualityProcess.Core\\Entities\\FieldStructure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:41:31.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Group.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\Group.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Core\\Entities\\Group.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\Group.cs",
+              "RelativeToolTip": "QualityProcess.Core\\Entities\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:29:39.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReviewTestCase.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\ReviewTestCase.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Core\\Entities\\ReviewTestCase.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\ReviewTestCase.cs",
+              "RelativeToolTip": "QualityProcess.Core\\Entities\\ReviewTestCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:20:10.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ReviewTicket.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\ReviewTicket.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Core\\Entities\\ReviewTicket.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\ReviewTicket.cs",
+              "RelativeToolTip": "QualityProcess.Core\\Entities\\ReviewTicket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:18:50.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Session.cs",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\Session.cs",
+              "RelativeDocumentMoniker": "QualityProcess.Core\\Entities\\Session.cs",
+              "ToolTip": "D:\\BackEnd\\QualityProcessBackEnd\\QualityProcess.Core\\Entities\\Session.cs",
+              "RelativeToolTip": "QualityProcess.Core\\Entities\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:13:30.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "QualityProcess.http",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcess\\QualityProcess\\QualityProcess.http",
+              "RelativeDocumentMoniker": "..\\QualityProcess\\QualityProcess\\QualityProcess.http",
+              "ToolTip": "D:\\BackEnd\\QualityProcess\\QualityProcess\\QualityProcess.http",
+              "RelativeToolTip": "..\\QualityProcess\\QualityProcess\\QualityProcess.http",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-24T07:40:49.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "QualityProcessBackEnd.csproj",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcess\\QualityProcess\\QualityProcessBackEnd.csproj",
+              "RelativeDocumentMoniker": "..\\QualityProcess\\QualityProcess\\QualityProcessBackEnd.csproj",
+              "ToolTip": "D:\\BackEnd\\QualityProcess\\QualityProcess\\QualityProcessBackEnd.csproj",
+              "RelativeToolTip": "..\\QualityProcess\\QualityProcess\\QualityProcessBackEnd.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T07:38:55.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "QualityProcessBackEnd.csproj",
+              "DocumentMoniker": "D:\\BackEnd\\QualityProcess\\QualityProcess\\QualityProcessBackEnd.csproj",
+              "RelativeDocumentMoniker": "..\\QualityProcess\\QualityProcess\\QualityProcessBackEnd.csproj",
+              "ToolTip": "D:\\BackEnd\\QualityProcess\\QualityProcess\\QualityProcessBackEnd.csproj",
+              "RelativeToolTip": "..\\QualityProcess\\QualityProcess\\QualityProcessBackEnd.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T07:38:03.122Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

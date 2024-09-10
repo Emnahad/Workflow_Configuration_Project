@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\ReportingProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFE7479-FA7D-4EF0-95EB-30CC14CF7632}|Solution Items{1FFE7479-FA7D-4EF0-95EB-30CC14CF7632}|D:\\Downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\ReportingProject\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1FFE7479-FA7D-4EF0-95EB-30CC14CF7632}|Solution Items{1FFE7479-FA7D-4EF0-95EB-30CC14CF7632}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|ReportingBackEnd\\ReportingBackEnd.csproj|d:\\downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\reportingproject\\reportingbackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|ReportingBackEnd\\ReportingBackEnd.csproj|solutionrelative:reportingbackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|ReportingBackEnd\\ReportingBackEnd.csproj|d:\\downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\reportingproject\\reportingbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|ReportingBackEnd\\ReportingBackEnd.csproj|solutionrelative:reportingbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|ReportingBackEnd\\ReportingBackEnd.csproj|d:\\downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\reportingproject\\reportingbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|ReportingBackEnd\\ReportingBackEnd.csproj|solutionrelative:reportingbackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|ReportingBackEnd\\ReportingBackEnd.csproj|d:\\downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\reportingproject\\reportingbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74FAD8F3-9367-4C69-A50D-98B415441CF7}|ReportingBackEnd\\ReportingBackEnd.csproj|solutionrelative:reportingbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEF53DB-9525-4034-9F23-24E5B580B8F6}|Reporting.Infrastracture\\Reporting.Infrastracture.csproj|d:\\downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\reportingproject\\reporting.infrastracture\\configuration\\reportingdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEF53DB-9525-4034-9F23-24E5B580B8F6}|Reporting.Infrastracture\\Reporting.Infrastracture.csproj|solutionrelative:reporting.infrastracture\\configuration\\reportingdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A523D6-0C6E-4477-A1E2-B46C0F2144A6}|Reporting.Application\\Reporting.Application.csproj|d:\\downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\reportingproject\\reporting.application\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A523D6-0C6E-4477-A1E2-B46C0F2144A6}|Reporting.Application\\Reporting.Application.csproj|solutionrelative:reporting.application\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A523D6-0C6E-4477-A1E2-B46C0F2144A6}|Reporting.Application\\Reporting.Application.csproj|d:\\downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\reportingproject\\reporting.application\\services\\workflowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A523D6-0C6E-4477-A1E2-B46C0F2144A6}|Reporting.Application\\Reporting.Application.csproj|solutionrelative:reporting.application\\services\\workflowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1372,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\ReportingProject\\ReportingBackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "ReportingBackEnd\\appsettings.json",
+              "ToolTip": "D:\\Downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\ReportingProject\\ReportingBackEnd\\appsettings.json",
+              "RelativeToolTip": "ReportingBackEnd\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-07T22:40:21.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\ReportingProject\\ReportingBackEnd\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ReportingBackEnd\\appsettings.Development.json",
+              "ToolTip": "D:\\Downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\ReportingProject\\ReportingBackEnd\\appsettings.Development.json",
+              "RelativeToolTip": "ReportingBackEnd\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-07T22:40:16.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\ReportingProject\\ReportingBackEnd\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ReportingBackEnd\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\ReportingProject\\ReportingBackEnd\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ReportingBackEnd\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-07T22:40:09.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\ReportingProject\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "D:\\Downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\ReportingProject\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-07T12:30:05.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\ReportingProject\\ReportingBackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "ReportingBackEnd\\Program.cs",
+              "ToolTip": "D:\\Downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\ReportingProject\\ReportingBackEnd\\Program.cs",
+              "RelativeToolTip": "ReportingBackEnd\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:45:48.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportingDatabaseSettings.cs",
+              "DocumentMoniker": "D:\\Downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\ReportingProject\\Reporting.Infrastracture\\Configuration\\ReportingDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "Reporting.Infrastracture\\Configuration\\ReportingDatabaseSettings.cs",
+              "ToolTip": "D:\\Downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\ReportingProject\\Reporting.Infrastracture\\Configuration\\ReportingDatabaseSettings.cs",
+              "RelativeToolTip": "Reporting.Infrastracture\\Configuration\\ReportingDatabaseSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:49:56.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkflowService.cs",
+              "DocumentMoniker": "D:\\Downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\ReportingProject\\Reporting.Application\\Services\\WorkflowService.cs",
+              "RelativeDocumentMoniker": "Reporting.Application\\Services\\WorkflowService.cs",
+              "ToolTip": "D:\\Downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\ReportingProject\\Reporting.Application\\Services\\WorkflowService.cs",
+              "RelativeToolTip": "Reporting.Application\\Services\\WorkflowService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T00:36:33.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingsService.cs",
+              "DocumentMoniker": "D:\\Downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\ReportingProject\\Reporting.Application\\Services\\SettingsService.cs",
+              "RelativeDocumentMoniker": "Reporting.Application\\Services\\SettingsService.cs",
+              "ToolTip": "D:\\Downloads\\workflow-backend-emnaha\\workflow-backend-emnaha\\ReportingProject\\Reporting.Application\\Services\\SettingsService.cs",
+              "RelativeToolTip": "Reporting.Application\\Services\\SettingsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T00:33:25.004Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

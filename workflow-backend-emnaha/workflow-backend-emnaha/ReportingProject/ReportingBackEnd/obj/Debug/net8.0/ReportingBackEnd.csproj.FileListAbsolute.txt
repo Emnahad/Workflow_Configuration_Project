@@ -1,0 +1,644 @@
+D:\BackEnd\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.csproj.AssemblyReference.cache
+D:\BackEnd\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.AssemblyInfoInputs.cache
+D:\BackEnd\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.AssemblyInfo.cs
+D:\BackEnd\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.csproj.CoreCompileInputs.cache
+D:\BackEnd\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.MvcApplicationPartsAssemblyInfo.cache
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\appsettings.Development.json
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\appsettings.json
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ReportingBackEnd.exe
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ReportingBackEnd.deps.json
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ReportingBackEnd.runtimeconfig.json
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ReportingBackEnd.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ReportingBackEnd.pdb
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\DnsClient.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\MongoDB.EntityFrameworkCore.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\SharpCompress.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Snappier.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.CodeDom.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ComponentModel.Composition.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ComponentModel.Composition.Registration.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Data.Odbc.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Data.OleDb.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.DirectoryServices.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.DirectoryServices.AccountManagement.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.IO.Ports.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Management.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Private.ServiceModel.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Reflection.Context.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.Duplex.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.Http.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.NetTcp.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.Security.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.Syndication.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceProcess.ServiceController.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Speech.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Threading.AccessControl.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Web.Services.Description.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ZstdSharp.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\cs\System.Private.ServiceModel.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\de\System.Private.ServiceModel.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\es\System.Private.ServiceModel.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\fr\System.Private.ServiceModel.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\it\System.Private.ServiceModel.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ja\System.Private.ServiceModel.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ko\System.Private.ServiceModel.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\pl\System.Private.ServiceModel.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\pt-BR\System.Private.ServiceModel.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ru\System.Private.ServiceModel.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\tr\System.Private.ServiceModel.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\zh-Hans\System.Private.ServiceModel.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\zh-Hant\System.Private.ServiceModel.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\cs\System.Web.Services.Description.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\de\System.Web.Services.Description.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\es\System.Web.Services.Description.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\fr\System.Web.Services.Description.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\it\System.Web.Services.Description.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ja\System.Web.Services.Description.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ko\System.Web.Services.Description.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\pl\System.Web.Services.Description.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\pt-BR\System.Web.Services.Description.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ru\System.Web.Services.Description.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\tr\System.Web.Services.Description.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\zh-Hans\System.Web.Services.Description.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\zh-Hant\System.Web.Services.Description.resources.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\freebsd\lib\net8.0\System.Data.Odbc.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\illumos\lib\net8.0\System.Data.Odbc.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\ios\lib\net8.0\System.Data.Odbc.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.Data.Odbc.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.Data.Odbc.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\solaris\lib\net8.0\System.Data.Odbc.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\tvos\lib\net8.0\System.Data.Odbc.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.Odbc.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.AccountManagement.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.IO.Ports.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Speech.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Threading.AccessControl.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Application.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Core.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Infrastracture.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Application.pdb
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Core.pdb
+D:\BackEnd\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Infrastracture.pdb
+D:\BackEnd\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.MvcApplicationPartsAssemblyInfo.cs
+D:\BackEnd\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets.build.json
+D:\BackEnd\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets.development.json
+D:\BackEnd\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.ReportingBackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BackEnd\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.ReportingBackEnd.props
+D:\BackEnd\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReportingBackEnd.props
+D:\BackEnd\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReportingBackEnd.props
+D:\BackEnd\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+D:\BackEnd\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\scopedcss\bundle\ReportingBackEnd.styles.css
+D:\BackEnd\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\Reportin.50442232.Up2Date
+D:\BackEnd\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\refint\ReportingBackEnd.dll
+D:\BackEnd\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.pdb
+D:\BackEnd\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.genruntimeconfig.cache
+D:\BackEnd\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ref\ReportingBackEnd.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\refint\ReportingBackEnd.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.pdb
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\appsettings.Development.json
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\appsettings.json
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ReportingBackEnd.exe
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ReportingBackEnd.deps.json
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ReportingBackEnd.runtimeconfig.json
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ReportingBackEnd.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ReportingBackEnd.pdb
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\DnsClient.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\MongoDB.EntityFrameworkCore.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\SharpCompress.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Snappier.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.CodeDom.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ComponentModel.Composition.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ComponentModel.Composition.Registration.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Data.Odbc.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Data.OleDb.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.DirectoryServices.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.DirectoryServices.AccountManagement.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.IO.Ports.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Management.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Private.ServiceModel.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Reflection.Context.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.Duplex.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.Http.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.NetTcp.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.Security.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.Syndication.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceProcess.ServiceController.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Speech.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Threading.AccessControl.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Web.Services.Description.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ZstdSharp.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\cs\System.Private.ServiceModel.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\de\System.Private.ServiceModel.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\es\System.Private.ServiceModel.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\fr\System.Private.ServiceModel.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\it\System.Private.ServiceModel.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ja\System.Private.ServiceModel.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ko\System.Private.ServiceModel.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\pl\System.Private.ServiceModel.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\pt-BR\System.Private.ServiceModel.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ru\System.Private.ServiceModel.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\tr\System.Private.ServiceModel.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\zh-Hans\System.Private.ServiceModel.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\zh-Hant\System.Private.ServiceModel.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\cs\System.Web.Services.Description.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\de\System.Web.Services.Description.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\es\System.Web.Services.Description.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\fr\System.Web.Services.Description.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\it\System.Web.Services.Description.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ja\System.Web.Services.Description.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ko\System.Web.Services.Description.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\pl\System.Web.Services.Description.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\pt-BR\System.Web.Services.Description.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ru\System.Web.Services.Description.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\tr\System.Web.Services.Description.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\zh-Hans\System.Web.Services.Description.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\zh-Hant\System.Web.Services.Description.resources.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\freebsd\lib\net8.0\System.Data.Odbc.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\illumos\lib\net8.0\System.Data.Odbc.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\ios\lib\net8.0\System.Data.Odbc.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.Data.Odbc.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.Data.Odbc.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\solaris\lib\net8.0\System.Data.Odbc.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\tvos\lib\net8.0\System.Data.Odbc.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.Odbc.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.AccountManagement.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.IO.Ports.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Speech.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Threading.AccessControl.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Application.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Core.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Infrastracture.dll
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Application.pdb
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Core.pdb
+D:\Downloads\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Infrastracture.pdb
+D:\Downloads\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.csproj.AssemblyReference.cache
+D:\Downloads\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.AssemblyInfoInputs.cache
+D:\Downloads\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.AssemblyInfo.cs
+D:\Downloads\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.csproj.CoreCompileInputs.cache
+D:\Downloads\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.MvcApplicationPartsAssemblyInfo.cs
+D:\Downloads\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets.build.json
+D:\Downloads\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets.development.json
+D:\Downloads\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.ReportingBackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.ReportingBackEnd.props
+D:\Downloads\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReportingBackEnd.props
+D:\Downloads\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReportingBackEnd.props
+D:\Downloads\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Downloads\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\scopedcss\bundle\ReportingBackEnd.styles.css
+D:\Downloads\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\Reportin.50442232.Up2Date
+D:\Downloads\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.genruntimeconfig.cache
+D:\Downloads\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ref\ReportingBackEnd.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\appsettings.json
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ReportingBackEnd.exe
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ReportingBackEnd.deps.json
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ReportingBackEnd.runtimeconfig.json
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ReportingBackEnd.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ReportingBackEnd.pdb
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\MongoDB.EntityFrameworkCore.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Snappier.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ComponentModel.Composition.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ComponentModel.Composition.Registration.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Data.Odbc.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Data.OleDb.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.DirectoryServices.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.IO.Ports.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Management.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Private.ServiceModel.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Reflection.Context.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.Duplex.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.Http.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.NetTcp.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.Security.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.Syndication.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceProcess.ServiceController.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Speech.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Threading.AccessControl.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Web.Services.Description.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\cs\System.Private.ServiceModel.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\de\System.Private.ServiceModel.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\es\System.Private.ServiceModel.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\fr\System.Private.ServiceModel.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\it\System.Private.ServiceModel.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ja\System.Private.ServiceModel.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ko\System.Private.ServiceModel.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\pl\System.Private.ServiceModel.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ru\System.Private.ServiceModel.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\tr\System.Private.ServiceModel.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\cs\System.Web.Services.Description.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\de\System.Web.Services.Description.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\es\System.Web.Services.Description.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\fr\System.Web.Services.Description.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\it\System.Web.Services.Description.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ja\System.Web.Services.Description.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ko\System.Web.Services.Description.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\pl\System.Web.Services.Description.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ru\System.Web.Services.Description.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\tr\System.Web.Services.Description.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\freebsd\lib\net8.0\System.Data.Odbc.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\illumos\lib\net8.0\System.Data.Odbc.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\ios\lib\net8.0\System.Data.Odbc.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.Data.Odbc.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.Data.Odbc.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\solaris\lib\net8.0\System.Data.Odbc.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\tvos\lib\net8.0\System.Data.Odbc.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.Odbc.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Speech.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Threading.AccessControl.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Application.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Core.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Infrastracture.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Application.pdb
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Core.pdb
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Infrastracture.pdb
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.csproj.AssemblyReference.cache
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.AssemblyInfoInputs.cache
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.AssemblyInfo.cs
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.ReportingBackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.ReportingBackEnd.props
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReportingBackEnd.props
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReportingBackEnd.props
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\scopedcss\bundle\ReportingBackEnd.styles.css
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\Reportin.50442232.Up2Date
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\refint\ReportingBackEnd.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.pdb
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.genruntimeconfig.cache
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ref\ReportingBackEnd.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\appsettings.Development.json
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\appsettings.json
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ReportingBackEnd.exe
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ReportingBackEnd.deps.json
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ReportingBackEnd.runtimeconfig.json
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ReportingBackEnd.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ReportingBackEnd.pdb
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\DnsClient.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\MongoDB.EntityFrameworkCore.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\SharpCompress.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Snappier.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.CodeDom.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ComponentModel.Composition.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ComponentModel.Composition.Registration.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Data.Odbc.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Data.OleDb.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.DirectoryServices.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.DirectoryServices.AccountManagement.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.IO.Ports.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Management.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Private.ServiceModel.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Reflection.Context.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.Duplex.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.Http.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.NetTcp.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.Security.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceModel.Syndication.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.ServiceProcess.ServiceController.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Speech.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Threading.AccessControl.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Web.Services.Description.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ZstdSharp.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\cs\System.Private.ServiceModel.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\de\System.Private.ServiceModel.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\es\System.Private.ServiceModel.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\fr\System.Private.ServiceModel.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\it\System.Private.ServiceModel.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ja\System.Private.ServiceModel.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ko\System.Private.ServiceModel.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\pl\System.Private.ServiceModel.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\pt-BR\System.Private.ServiceModel.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ru\System.Private.ServiceModel.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\tr\System.Private.ServiceModel.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\zh-Hans\System.Private.ServiceModel.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\zh-Hant\System.Private.ServiceModel.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\cs\System.Web.Services.Description.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\de\System.Web.Services.Description.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\es\System.Web.Services.Description.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\fr\System.Web.Services.Description.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\it\System.Web.Services.Description.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ja\System.Web.Services.Description.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ko\System.Web.Services.Description.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\pl\System.Web.Services.Description.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\pt-BR\System.Web.Services.Description.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\ru\System.Web.Services.Description.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\tr\System.Web.Services.Description.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\zh-Hans\System.Web.Services.Description.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\zh-Hant\System.Web.Services.Description.resources.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\freebsd\lib\net8.0\System.Data.Odbc.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\illumos\lib\net8.0\System.Data.Odbc.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\ios\lib\net8.0\System.Data.Odbc.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.Data.Odbc.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.Data.Odbc.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\solaris\lib\net8.0\System.Data.Odbc.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\tvos\lib\net8.0\System.Data.Odbc.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.Odbc.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.AccountManagement.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.IO.Ports.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Speech.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Threading.AccessControl.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Application.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Core.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Infrastracture.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Application.pdb
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Core.pdb
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\bin\Debug\net8.0\Reporting.Infrastracture.pdb
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.csproj.AssemblyReference.cache
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.AssemblyInfoInputs.cache
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.AssemblyInfo.cs
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.csproj.CoreCompileInputs.cache
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.MvcApplicationPartsAssemblyInfo.cs
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets.build.json
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets.development.json
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.ReportingBackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.build.ReportingBackEnd.props
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReportingBackEnd.props
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReportingBackEnd.props
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\scopedcss\bundle\ReportingBackEnd.styles.css
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\Reportin.50442232.Up2Date
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\refint\ReportingBackEnd.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.pdb
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ReportingBackEnd.genruntimeconfig.cache
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\ReportingBackEnd\obj\Debug\net8.0\ref\ReportingBackEnd.dll

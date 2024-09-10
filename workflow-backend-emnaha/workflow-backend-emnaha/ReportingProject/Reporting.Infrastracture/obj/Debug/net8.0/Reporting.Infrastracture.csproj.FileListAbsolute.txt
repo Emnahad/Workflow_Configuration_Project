@@ -1,0 +1,48 @@
+D:\BackEnd\ReportingProject\Reporting.Infrastracture\bin\Debug\net8.0\Reporting.Infrastracture.deps.json
+D:\BackEnd\ReportingProject\Reporting.Infrastracture\bin\Debug\net8.0\Reporting.Infrastracture.dll
+D:\BackEnd\ReportingProject\Reporting.Infrastracture\bin\Debug\net8.0\Reporting.Infrastracture.pdb
+D:\BackEnd\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.csproj.AssemblyReference.cache
+D:\BackEnd\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.AssemblyInfoInputs.cache
+D:\BackEnd\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.AssemblyInfo.cs
+D:\BackEnd\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.csproj.CoreCompileInputs.cache
+D:\BackEnd\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.dll
+D:\BackEnd\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\refint\Reporting.Infrastracture.dll
+D:\BackEnd\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.pdb
+D:\BackEnd\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\ref\Reporting.Infrastracture.dll
+D:\Downloads\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.dll
+D:\Downloads\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\refint\Reporting.Infrastracture.dll
+D:\Downloads\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.pdb
+D:\Downloads\ReportingProject\Reporting.Infrastracture\bin\Debug\net8.0\Reporting.Infrastracture.deps.json
+D:\Downloads\ReportingProject\Reporting.Infrastracture\bin\Debug\net8.0\Reporting.Infrastracture.dll
+D:\Downloads\ReportingProject\Reporting.Infrastracture\bin\Debug\net8.0\Reporting.Infrastracture.pdb
+D:\Downloads\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.csproj.AssemblyReference.cache
+D:\Downloads\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.AssemblyInfoInputs.cache
+D:\Downloads\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.AssemblyInfo.cs
+D:\Downloads\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.csproj.CoreCompileInputs.cache
+D:\Downloads\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\ref\Reporting.Infrastracture.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Infrastracture\bin\Debug\net8.0\Reporting.Infrastracture.deps.json
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Infrastracture\bin\Debug\net8.0\Reporting.Infrastracture.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Infrastracture\bin\Debug\net8.0\Reporting.Infrastracture.pdb
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.csproj.AssemblyReference.cache
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.AssemblyInfoInputs.cache
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.AssemblyInfo.cs
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.csproj.CoreCompileInputs.cache
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\refint\Reporting.Infrastracture.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.pdb
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\ref\Reporting.Infrastracture.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Infrastracture\bin\Debug\net8.0\Reporting.Infrastracture.deps.json
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Infrastracture\bin\Debug\net8.0\Reporting.Infrastracture.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Infrastracture\bin\Debug\net8.0\Reporting.Infrastracture.pdb
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.csproj.AssemblyReference.cache
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.AssemblyInfoInputs.cache
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.AssemblyInfo.cs
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.csproj.CoreCompileInputs.cache
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\refint\Reporting.Infrastracture.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\Reporting.Infrastracture.pdb
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Infrastracture\obj\Debug\net8.0\ref\Reporting.Infrastracture.dll

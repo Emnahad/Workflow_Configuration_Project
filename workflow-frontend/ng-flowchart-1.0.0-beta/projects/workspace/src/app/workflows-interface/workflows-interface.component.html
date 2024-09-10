@@ -1,0 +1,105 @@
+<div class="workflows">
+    <div id="palette">
+        <section>
+            <div class="Title">Node's Types</div>
+            <div class="plugin-op" *ngFor="let op of customOps" [ngFlowchartStep]="op.step">
+                <span>{{ op.paletteName }}</span>
+            </div>
+        </section>
+        <section>
+            <div class="Title">Workflows</div>
+            <div class="search-container">
+                <input type="text" [(ngModel)]="searchTerm" placeholder="Search by title" class="search-bar" />
+            </div>
+            <div class="workflows-container">
+                <div class="plugin-op" *ngFor="let workflow of filteredWorkflows(); let i = index">
+                    <span class="workflow-title" (click)="loadWorkflows(workflow.id)">
+                        <ng-container *ngIf="editingWorkflowId === workflow.id; else titleDisplay">
+                            <input class="edit-title-input" [(ngModel)]="editingWorkflowTitle" />
+                            <div class="butt">
+                                <button class="save-btn" (click)="saveTitle(workflow.id)">Save</button>
+                                <button class="cancel-btn" (click)="editingWorkflowId = null">Cancel</button>
+                            </div>
+
+                        </ng-container>
+                        <ng-template #titleDisplay>
+                            {{ workflow.title || 'Workflow ' + (i + 1) }}
+                        </ng-template>
+                    </span>
+                    <div class="dropdown">
+                        <button class="dropbtn custom-dropbtn" (click)="toggleDropdown(workflow.id)">⋮</button>
+                        <div class="dropdown-content" [ngClass]="{'show': isDropdownVisible(workflow.id)}">
+                            <a (click)="loadWorkflows(workflow.id)">Edit Workflow</a>
+                            <a (click)="deleteWorkflow(workflow.id)">Delete Workflow</a>
+                            <a (click)="updateTitle(workflow.id)">Update Title</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="button-group">
+            <button class="show" (click)="showFlowData()">Show JSON</button>
+            <button class="show" (click)="openSaveWorkflowPopup()">Save Workflow</button>
+
+
+
+        </section>
+
+        <section>
+            <div class="sub-section">
+                <label for="step-gap-select" class="wide">Step Gap</label>
+                <select name="step-gap-select" id="step-gap-select" class="wide" (change)="onGapChanged($event)">
+                    <option value="30">30</option>
+                    <option value="40">40</option>
+                    <option value="60">60</option>
+                    <option value="80" selected>80</option>
+                </select>
+            </div>
+            <div class="sub-section">
+                <label for="sequential">Sequential</label>
+                <input type="checkbox" name="sequential" (change)="onSequentialChange($event)" />
+            </div>
+            <div class="sub-section">
+                <label for="orientation">Horizontal Orientation</label>
+                <input type="checkbox" name="orientation" (change)="onOrientationChange($event)" />
+            </div>
+            <div class="sub-section">
+                <label for="disabled">Disabled</label>
+                <input type="checkbox" name="disabled" (change)="disabled = $any($event).target.checked" />
+            </div>
+        </section>
+
+        <section>
+            <button class="clear" (click)="clearData()">Clear Flow</button>
+        </section>
+        <section>
+            <button class="reload" (click)="reloadPage()">Reload Page</button> 
+        </section>
+
+        <section class="adjust-buttons">
+            <button (click)="onGrow()">+</button>
+            <button (click)="onShrink()">-</button>
+            <button (click)="onReset()">Reset</button>
+        </section>
+        <section class="undo-redo-buttons">
+            <button (click)="undo()" [disabled]="!showUndo"><i class="fas fa-undo-alt"></i> Undo</button>
+            <button (click)="redo()" [disabled]="!showRedo"><i class="fas fa-redo-alt"></i> Redo</button>
+        </section>
+
+
+    </div>
+
+    <div id="canvas" class="canvas-container" ngFlowchartCanvas #canvasContent [ngFlowchartOptions]="options"
+        [ngFlowchartCallbacks]="callbacks" [disabled]="disabled">
+    </div>
+
+    <div *ngIf="showSaveWorkflowPopup" class="popup-overlay">
+        <div class="popup-content">
+            <h2>Save Workflow</h2>
+            <label for="workflowTitle">Workflow Title:</label>
+            <input id="workflowTitle" type="text" [(ngModel)]="workflowTitle" />
+            <button class="savepopup" (click)="saveWorkflow()">Save</button>
+            <button class="savepopup" (click)="closeSaveWorkflowPopup()">Cancel</button>
+        </div>
+    </div>
+</div>

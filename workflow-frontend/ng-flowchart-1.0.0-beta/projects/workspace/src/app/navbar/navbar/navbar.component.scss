@@ -1,0 +1,35 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8f9fa;
+  padding: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar button {
+  background-color: rgb(186, 205, 92);
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  margin: 0 1rem;
+  cursor: pointer;
+  font-size: 1rem;
+  border-radius: 20px;
+  transition: background-color 0.3s, transform 0.2s;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar button:hover {
+  background-color: rgb(160, 180, 80);
+  transform: scale(1.05);
+}
+
+.navbar button:focus {
+  outline: none;
+  box-shadow: 0 0 0 4px rgba(186, 205, 92, 0.5);
+}

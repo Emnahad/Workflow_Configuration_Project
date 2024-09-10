@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\ReportingProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\ReportingProject\\ReportingBackEnd\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReportingBackEnd\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\ReportingProject\\Reporting.Core\\Reporting.Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Reporting.Core\\Reporting.Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\ReportingProject\\Reporting.Application\\obj\\Reporting.Application.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Reporting.Application\\obj\\Reporting.Application.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\ReportingProject\\Reporting.Application\\obj\\Reporting.Application.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Reporting.Application\\obj\\Reporting.Application.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\ReportingProject\\Reporting.Application\\obj\\Reporting.Application.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Reporting.Application\\obj\\Reporting.Application.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\ReportingProject\\Reporting.Application\\obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Reporting.Application\\obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\ReportingProject\\Reporting.Application\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Reporting.Application\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\ReportingProject\\Reporting.Infrastracture\\Configuration\\ReportingDatabaseSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Reporting.Infrastracture\\Configuration\\ReportingDatabaseSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\ReportingProject\\Reporting.Infrastracture\\Reporting.Infrastracture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Reporting.Infrastracture\\Reporting.Infrastracture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\ReportingProject\\Reporting.Core\\Entities\\Report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Reporting.Core\\Entities\\Report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 288,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Downloads\\ReportingProject\\ReportingBackEnd\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ReportingBackEnd\\WeatherForecast.cs",
+              "ToolTip": "D:\\Downloads\\ReportingProject\\ReportingBackEnd\\WeatherForecast.cs",
+              "RelativeToolTip": "ReportingBackEnd\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T08:08:13.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reporting.Application.csproj.nuget.g.targets",
+              "DocumentMoniker": "D:\\Downloads\\ReportingProject\\Reporting.Application\\obj\\Reporting.Application.csproj.nuget.g.targets",
+              "RelativeDocumentMoniker": "Reporting.Application\\obj\\Reporting.Application.csproj.nuget.g.targets",
+              "ToolTip": "D:\\Downloads\\ReportingProject\\Reporting.Application\\obj\\Reporting.Application.csproj.nuget.g.targets",
+              "RelativeToolTip": "Reporting.Application\\obj\\Reporting.Application.csproj.nuget.g.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-03T09:39:07.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reporting.Core.csproj",
+              "DocumentMoniker": "D:\\Downloads\\ReportingProject\\Reporting.Core\\Reporting.Core.csproj",
+              "RelativeDocumentMoniker": "Reporting.Core\\Reporting.Core.csproj",
+              "ToolTip": "D:\\Downloads\\ReportingProject\\Reporting.Core\\Reporting.Core.csproj",
+              "RelativeToolTip": "Reporting.Core\\Reporting.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T08:13:21.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reporting.Application.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "D:\\Downloads\\ReportingProject\\Reporting.Application\\obj\\Reporting.Application.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "Reporting.Application\\obj\\Reporting.Application.csproj.nuget.dgspec.json",
+              "ToolTip": "D:\\Downloads\\ReportingProject\\Reporting.Application\\obj\\Reporting.Application.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "Reporting.Application\\obj\\Reporting.Application.csproj.nuget.dgspec.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T09:39:03.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reporting.Application.csproj.nuget.g.props",
+              "DocumentMoniker": "D:\\Downloads\\ReportingProject\\Reporting.Application\\obj\\Reporting.Application.csproj.nuget.g.props",
+              "RelativeDocumentMoniker": "Reporting.Application\\obj\\Reporting.Application.csproj.nuget.g.props",
+              "ToolTip": "D:\\Downloads\\ReportingProject\\Reporting.Application\\obj\\Reporting.Application.csproj.nuget.g.props",
+              "RelativeToolTip": "Reporting.Application\\obj\\Reporting.Application.csproj.nuget.g.props",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-03T09:38:57.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "project.nuget.cache",
+              "DocumentMoniker": "D:\\Downloads\\ReportingProject\\Reporting.Application\\obj\\project.nuget.cache",
+              "RelativeDocumentMoniker": "Reporting.Application\\obj\\project.nuget.cache",
+              "ToolTip": "D:\\Downloads\\ReportingProject\\Reporting.Application\\obj\\project.nuget.cache",
+              "RelativeToolTip": "Reporting.Application\\obj\\project.nuget.cache",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2024-07-03T09:38:56.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "project.assets.json",
+              "DocumentMoniker": "D:\\Downloads\\ReportingProject\\Reporting.Application\\obj\\project.assets.json",
+              "RelativeDocumentMoniker": "Reporting.Application\\obj\\project.assets.json",
+              "ToolTip": "D:\\Downloads\\ReportingProject\\Reporting.Application\\obj\\project.assets.json",
+              "RelativeToolTip": "Reporting.Application\\obj\\project.assets.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T09:38:48.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportingDatabaseSettings.cs",
+              "DocumentMoniker": "D:\\Downloads\\ReportingProject\\Reporting.Infrastracture\\Configuration\\ReportingDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "Reporting.Infrastracture\\Configuration\\ReportingDatabaseSettings.cs",
+              "ToolTip": "D:\\Downloads\\ReportingProject\\Reporting.Infrastracture\\Configuration\\ReportingDatabaseSettings.cs",
+              "RelativeToolTip": "Reporting.Infrastracture\\Configuration\\ReportingDatabaseSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:13:53.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reporting.Infrastracture.csproj",
+              "DocumentMoniker": "D:\\Downloads\\ReportingProject\\Reporting.Infrastracture\\Reporting.Infrastracture.csproj",
+              "RelativeDocumentMoniker": "Reporting.Infrastracture\\Reporting.Infrastracture.csproj",
+              "ToolTip": "D:\\Downloads\\ReportingProject\\Reporting.Infrastracture\\Reporting.Infrastracture.csproj",
+              "RelativeToolTip": "Reporting.Infrastracture\\Reporting.Infrastracture.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T09:12:31.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\Downloads\\ReportingProject\\Reporting.Core\\Entities\\Report.cs",
+              "RelativeDocumentMoniker": "Reporting.Core\\Entities\\Report.cs",
+              "ToolTip": "D:\\Downloads\\ReportingProject\\Reporting.Core\\Entities\\Report.cs",
+              "RelativeToolTip": "Reporting.Core\\Entities\\Report.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:13:05.466Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

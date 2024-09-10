@@ -1,0 +1,266 @@
+<div class="popup-overlay"></div>
+
+<div class="popup" cdkDrag *ngIf="popupVisible">
+    <div class="popup-header">
+        <i class="fa fa-arrows-alt drag-icon" cdkDragHandle></i>
+        <h3>{{ title }}</h3>
+        <button class="close-button" (click)="closePopup()">
+            <i class="fas fa-times"></i>
+            <span class="sr-only">Close</span>
+        </button>
+    </div>
+    <div class="popup-content">
+        <form>
+            <div class="form-group" *ngIf="nodeType !== 'decision'">
+                <label class="titlelabel">State and Conditions:</label><br>
+                <input type="radio" id="decisionRadio" name="stateCondition" [(ngModel)]="selectedStateCondition"
+                    [value]="'Normal Node'">
+                <label for="decisionRadio">Normal Node</label><br>
+                <input type="radio" id="yesConditionRadio" name="stateCondition" [(ngModel)]="selectedStateCondition"
+                    [value]="'Yes Condition'">
+                <label for="yesConditionRadio">Yes Condition</label><br>
+                <input type="radio" id="noConditionRadio" name="stateCondition" [(ngModel)]="selectedStateCondition"
+                    [value]="'No Condition'">
+                <label for="noConditionRadio">No Condition</label><br>
+
+                <input type="radio" id="endStateRadio" name="stateCondition" [(ngModel)]="selectedStateCondition"
+                    [value]="'End State'">
+                <label for="endStateRadio">End State</label><br>
+            </div>
+            <div *ngIf="selectedStateCondition !== 'End State'">
+
+                <div class="form-group">
+                    <label class="titlelabel" for="tableDropdown">Select Table:</label>
+                    <select id="tableDropdown" class="form-control" [(ngModel)]="selectedTable"
+                        [ngModelOptions]="{ standalone: true }" (change)="onTableSelect()">
+                        <option *ngFor="let table of options" [value]="table">{{ table }}</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label class="titlelabel">Select Testing Mode:</label><br>
+                    <input type="radio" id="singleColumnRadio" name="testingMode" [(ngModel)]="singleColumnChecked"
+                        [value]="true" [ngModelOptions]="{ standalone: true }">
+                    <label for="singleColumnRadio">Choose One Column to Test</label><br>
+                    <input type="radio" id="multipleColumnsRadio" name="testingMode" [(ngModel)]="singleColumnChecked"
+                        [value]="false" [ngModelOptions]="{ standalone: true }">
+                    <label for="multipleColumnsRadio">Choose Multiple Columns to Test</label>
+                </div>
+
+                <!-- Single column mode -->
+                <div class="form-group selectpicker" *ngIf="selectedTable && singleColumnChecked">
+                    <label class="titlelabel" for="singleColumnDropdown">Select Column:</label>
+                    <select id="singleColumnDropdown" class="form-control" [(ngModel)]="selectedColumnNames"
+                        [ngModelOptions]="{ standalone: true }" (change)="onColumnSelect($event)">
+                        <option *ngFor="let column of selectedTableColumns trackBy: trackByFn" [value]="column.name"
+                            [selected]="selectedColumnNames[0] === column.name">{{ column.name }}</option>
+                    </select>
+                </div>
+
+                <!-- Multiple columns mode -->
+                <div class="form-group" *ngIf="selectedTable && !singleColumnChecked">
+                    <label class="titlelabel" for="checkboxDropdown">Select Columns:</label><br>
+                    <div class="dropdown-menu show" aria-labelledby="checkboxDropdown">
+                        <div class="form-check" *ngFor="let column of selectedTableColumns">
+                            <input class="form-check-input" type="checkbox" [id]="column.name" [value]="column.name"
+                                (change)="onCheckboxChange($event)" [checked]="isColumnSelected(column.name)" />
+                            <label class="form-check-label" [for]="column.name">
+                                {{ column.name }}
+                            </label>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- Dynamic form groups for each selected column -->
+                <div *ngFor="let column of selectedColumnNames; trackBy: trackByFn">
+                    <div class="form-group" *ngIf="nodeType !== 'decision'">
+                        <label class="titlelabel" for="actionDropdown">Choose actions for {{column}}:</label>
+                        <div class="dropdown-menu show" aria-labelledby="checkboxDropdown">
+                            <div class="dropdown-header">Crud Actions</div>
+                            <div class="form-check" *ngFor="let action of CrudActions;trackBy: trackByFn">
+                                <input class="form-check-input" type="checkbox" [value]="action"
+                                    (change)="onActionChecked($event, column)" [checked]="isSelected(column, action)"
+                                    id="checkbox{{column}}-{{action}}">
+                                <label class="form-check-label" for="checkbox{{column}}-{{action}}">
+                                    {{ action }}
+                                </label>
+                            </div>
+                        </div>
+
+
+                        <div *ngFor="let action of selectedActions[column]; trackBy: trackByFn">
+                            <div class="form-group" *ngIf="nodeType !== 'decision' ">
+                                <div *ngIf="action == 'Read' ">
+                                    <label class="titlelabel" for="actionDropdown">Choose a command for
+                                        {{action}}:</label>
+                                    <div class="dropdown-menu show" aria-labelledby="checkboxDropdown">
+                                        <div *ngIf="getColumnType(column) === 'String'; else intActions">
+                                            <div class="form-check"
+                                                *ngFor="let CommandActionStr of CommandActionsForStr">
+                                                <input class="form-check-input" type="checkbox"
+                                                    [value]="CommandActionStr"
+                                                    (change)="onCommandActionChecked($event, action)"
+                                                    [checked]="itsSelected(column, CommandActionStr)"
+                                                    id="checkbox{{column}}-{{CommandActionStr}}">
+                                                <label class="form-check-label"
+                                                    for="checkbox{{column}}-{{CommandActionStr}}">
+                                                    {{ CommandActionStr }}
+                                                </label>
+                                            </div>
+                                        </div>
+                                        <ng-template #intActions>
+                                            <div class="form-check"
+                                                *ngFor="let CommandActionInt of CommandActionsForInt">
+                                                <input class="form-check-input" type="checkbox"
+                                                    [value]="CommandActionInt"
+                                                    (change)="onCommandActionChecked($event, action)"
+                                                    [checked]="itsSelected(column, CommandActionInt)"
+                                                    id="checkbox{{column}}-{{CommandActionInt}}">
+                                                <label class="form-check-label"
+                                                    for="checkbox{{column}}-{{CommandActionInt}}">
+                                                    {{ CommandActionInt }}
+                                                </label>
+                                            </div>
+                                        </ng-template>
+
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="form-group">
+                                <label class="titlelabel">Select Testing Mode for {{ column }} And for {{action}}
+                                    action:</label><br>
+                                <input type="radio" id="singleValueRadio-{{ column }}--{{action}}"
+                                    name="testingModeValue-{{ column }}--{{action}}"
+                                    [(ngModel)]="columnValueModes[column][action]" [value]="true"
+                                    [ngModelOptions]="{ standalone: true }">
+                                <label for="singleValueRadio-{{ column }}--{{action}}">Choose One Value to
+                                    Test</label><br>
+                                <input type="radio" id="multipleValuesRadio-{{ column }}--{{action}}"
+                                    name="testingModeValue-{{ column }}--{{action}}"
+                                    [(ngModel)]="columnValueModes[column][action]" [value]="false"
+                                    [ngModelOptions]="{ standalone: true }">
+                                <label for="multipleValuesRadio-{{ column }}--{{action}}">Choose Multiple Values to
+                                    Test</label>
+                            </div>
+                            <div class="form-group" *ngIf="columnValueModes[column][action]">
+                                <label class="titlelabel" for="valueDropdown-{{ column }}--{{ action }}">Select a Value
+                                    for {{ column }} And for {{ action }}:</label>
+                                <select id="valueDropdown-{{ column }}--{{ action }}" class="form-control"
+                                    (change)="onValueSelect($event, column, action)">
+                                    <option *ngFor="let value of getColumnValues(column); trackBy: trackByFn"
+                                        [value]="value">{{ value }}
+                                    </option>
+                                </select>
+
+
+                            </div>
+
+                            <div class="form-group" *ngIf="!columnValueModes[column][action]">
+                                <label class="titlelabel" for="valueDropdown-{{ column }}--{{ action }}">Select Values
+                                    for {{
+                                    column
+                                    }}:</label>
+                                <div class="dropdown">
+                                    <div class="dropdown-menu show">
+                                        <div class="form-check"
+                                            *ngFor="let value of getColumnValues(column); trackBy: trackByFn">
+                                            <input class="form-check-input" type="checkbox" [id]="value" [value]="value"
+                                                (change)="onValueSelect($event, column,action)" />
+                                            <label class="form-check-label" [for]="value">
+                                                {{ value }}
+                                            </label>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div *ngIf="selectedColumnValues[column]?.['Set'] && selectedColumnValues[column]['Set'].length > 0"
+                            class="form-group">
+                            <div *ngFor="let value of selectedColumnValues[column]['Set']">
+                                <label class="titlelabel" for="SetNewValue">New Value for {{ value }}:</label><br>
+                                <input type="text" id="SetNewValue" required [(ngModel)]="newValue[value]"
+                                    [ngModelOptions]="{ standalone: true }">
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group" *ngIf="nodeType == 'decision'">
+                        <label class="titlelabel" for="operatorDropdown-{{ column }}">Select Operator for {{
+                            column
+                            }}:</label>
+                        <select id="operatorDropdown-{{ column }}" class="form-control"
+                            [(ngModel)]="selectedOperators[column]" [ngModelOptions]="{ standalone: true }">
+                            <option *ngFor="let operator of getOperators()" [value]="operator"
+                                [selected]="selectedOperators[column] === operator">{{ operator }}</option>
+                        </select>
+                        <div class="form-group"
+                            *ngIf="selectedOperators[column]?.toString() !== 'IsEmpty' && selectedOperators[column]?.toString() !== 'NotEmpty'">
+                            <label class="titlelabel">Select Testing Mode for {{ column }}:</label><br>
+                            <input type="radio" id="singleValueRadio-{{ column }}" name="testingModeValue-{{ column }}"
+                                [(ngModel)]="DecisionValueModes[column]" [value]="true"
+                                [ngModelOptions]="{ standalone: true }">
+                            <label for="singleValueRadio-{{ column }}">Choose One Value to Test</label><br>
+                            <input type="radio" id="multipleValuesRadio-{{ column }}"
+                                name="testingModeValue-{{ column }}" [(ngModel)]="DecisionValueModes[column]"
+                                [value]="false" [ngModelOptions]="{ standalone: true }">
+                            <label for="multipleValuesRadio-{{ column }}">Choose Multiple Values to Test</label>
+                        </div>
+                        <div class="form-group"
+                            *ngIf="DecisionValueModes[column] && selectedOperators[column]!='IsEmpty' && selectedOperators[column]!='NotEmpty' ">
+                            <label class="titlelabel" for="valueDropdown-{{ column }}">Select Value for {{
+                                column
+                                }}:</label>
+                            <select id="valueDropdown-{{ column }}" class="form-control"
+                                (change)="onValueDecisionSelect($event, column)"
+                                [(ngModel)]="selectedDecisionValues[column]" [ngModelOptions]="{ standalone: true }">
+                                <option *ngFor="let value of getColumnValues(column); trackBy: trackByFn"
+                                    [value]="value" [selected]="selectedDecisionValues[column] === [value]"
+                                    [value]="value">{{ value }}
+                                </option>
+                            </select>
+                        </div>
+                        <div class="form-group"
+                            *ngIf="!DecisionValueModes[column]  && selectedOperators[column]!='IsEmpty' && selectedOperators[column]!='NotEmpty'">
+                            <label class="titlelabel" for="valueDropdown-{{ column }}">Select Values for {{
+                                column
+                                }}:</label>
+                            <div class="dropdown">
+                                <div class="dropdown-menu show">
+                                    <div class="form-check"
+                                        *ngFor="let value of getColumnValues(column); trackBy: trackByFn">
+                                        <input class="form-check-input" type="checkbox" [id]="value" [value]="value"
+                                            (change)="onValueDecisionSelect($event, column)"
+                                            [checked]="isValueDecisionSelected(column, value)" />
+                                        <label class="form-check-label" [for]="value">
+                                            {{ value }}
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+
+                    </div>
+
+
+                </div>
+            </div>
+            <div *ngIf="selectedStateCondition == 'End State'">
+                <div class="form-group">
+                    <label class="titlelabel" for="endStateDropdown">End Situation:</label>
+                    <input type="text" id="endStateDropdown" required [(ngModel)]="endState"
+                        [ngModelOptions]="{ standalone: true }">
+                </div>
+            </div>
+            <button type="button" class="btn btn-primary" (click)="submitForm()">Save</button>
+
+        </form>
+    </div>
+</div>

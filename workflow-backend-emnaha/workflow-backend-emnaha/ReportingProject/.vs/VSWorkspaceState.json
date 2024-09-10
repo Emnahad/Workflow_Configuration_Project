@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Reporting.Application",
+    "\\Reporting.Application\\Services",
+    "\\Reporting.Core",
+    "\\Reporting.Core\\Entities",
+    "\\ReportingBackEnd",
+    "\\ReportingBackEnd\\Controllers"
+  ],
+  "SelectedNode": "\\ReportingBackEnd.sln",
+  "PreviewInSolutionExplorer": false
+}

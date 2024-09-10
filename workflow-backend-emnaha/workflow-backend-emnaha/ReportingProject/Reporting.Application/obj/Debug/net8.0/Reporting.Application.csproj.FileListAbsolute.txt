@@ -1,0 +1,68 @@
+D:\BackEnd\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.csproj.AssemblyReference.cache
+D:\BackEnd\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.AssemblyInfoInputs.cache
+D:\BackEnd\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.AssemblyInfo.cs
+D:\BackEnd\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.csproj.CoreCompileInputs.cache
+D:\BackEnd\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Application.deps.json
+D:\BackEnd\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Application.dll
+D:\BackEnd\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Application.pdb
+D:\BackEnd\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Core.dll
+D:\BackEnd\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Infrastracture.dll
+D:\BackEnd\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Core.pdb
+D:\BackEnd\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Infrastracture.pdb
+D:\BackEnd\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reportin.A8C3EFA9.Up2Date
+D:\BackEnd\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.dll
+D:\BackEnd\ReportingProject\Reporting.Application\obj\Debug\net8.0\refint\Reporting.Application.dll
+D:\BackEnd\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.pdb
+D:\BackEnd\ReportingProject\Reporting.Application\obj\Debug\net8.0\ref\Reporting.Application.dll
+D:\Downloads\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.dll
+D:\Downloads\ReportingProject\Reporting.Application\obj\Debug\net8.0\refint\Reporting.Application.dll
+D:\Downloads\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.pdb
+D:\Downloads\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Application.deps.json
+D:\Downloads\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Application.dll
+D:\Downloads\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Application.pdb
+D:\Downloads\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Core.dll
+D:\Downloads\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Infrastracture.dll
+D:\Downloads\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Core.pdb
+D:\Downloads\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Infrastracture.pdb
+D:\Downloads\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.csproj.AssemblyReference.cache
+D:\Downloads\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.AssemblyInfoInputs.cache
+D:\Downloads\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.AssemblyInfo.cs
+D:\Downloads\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.csproj.CoreCompileInputs.cache
+D:\Downloads\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reportin.A8C3EFA9.Up2Date
+D:\Downloads\ReportingProject\Reporting.Application\obj\Debug\net8.0\ref\Reporting.Application.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Application.deps.json
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Application.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Application.pdb
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Core.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Infrastracture.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Core.pdb
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Infrastracture.pdb
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.csproj.AssemblyReference.cache
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.AssemblyInfoInputs.cache
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.AssemblyInfo.cs
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.csproj.CoreCompileInputs.cache
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reportin.A8C3EFA9.Up2Date
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Application\obj\Debug\net8.0\refint\Reporting.Application.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.pdb
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Application\obj\Debug\net8.0\ref\Reporting.Application.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Application.deps.json
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Application.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Application.pdb
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Core.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Infrastracture.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Core.pdb
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Application\bin\Debug\net8.0\Reporting.Infrastracture.pdb
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.csproj.AssemblyReference.cache
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.AssemblyInfoInputs.cache
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.AssemblyInfo.cs
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.csproj.CoreCompileInputs.cache
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reportin.A8C3EFA9.Up2Date
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Application\obj\Debug\net8.0\refint\Reporting.Application.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Application\obj\Debug\net8.0\Reporting.Application.pdb
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Application\obj\Debug\net8.0\ref\Reporting.Application.dll

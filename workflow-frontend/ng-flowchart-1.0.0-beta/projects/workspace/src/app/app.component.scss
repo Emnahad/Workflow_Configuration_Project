@@ -1,0 +1,18 @@
+.navbar {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    color: #555;
+}
+.navbar-nav .nav-link:hover{
+    color: rgb(186, 205, 92);
+
+}
+
+ .navbar-nav .nav-link {
+     margin-right: 80px;
+     margin-left: 45px;
+     /* Adjust this value as needed */
+ }

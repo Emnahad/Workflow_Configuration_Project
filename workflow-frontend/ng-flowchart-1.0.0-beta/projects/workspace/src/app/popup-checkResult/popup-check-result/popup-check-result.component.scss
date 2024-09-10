@@ -1,0 +1,109 @@
+.popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+        background: rgb(42 41 41 / 4%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+
+.popup-content {
+    background: white;
+    padding: 23px;
+    border-radius: 12px;
+    max-width: 90vw;
+    width: 500px;
+    box-sizing: border-box;
+}
+
+.popup-content h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+}
+
+.popup-content label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.popup-content input {
+    width: calc(100% - 22px);
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.popup-content button {
+    background-color: rgb(186, 205, 92);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 11px;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.popup-content button:hover {
+    background-color: rgb(160, 180, 80);
+    transform: scale(1.05);
+}
+
+.popup-content button:last-of-type {
+    background-color: rgb(186, 205, 92);
+}
+
+.popup-content button:last-of-type:hover {
+    background-color: rgb(160, 180, 80);
+}
+
+.popup-content button:focus {
+    outline: none;
+}
+.savepopup {
+    width: 200px;
+}
+.popup-content h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #2c3e50;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.popup-content h4 {
+    font-size: 20px;
+    color: #34495e;
+    font-weight: 500;
+    margin-bottom: 10px;
+    letter-spacing: 0.5px;
+}
+
+.popup-content h5 {
+    font-size: 18px;
+    color: rgb(186, 205, 92);
+    font-weight: 500;
+    margin-bottom: 5px;
+    letter-spacing: 0.5px;
+}
+
+.popup-content p {
+    font-size: 16px;
+    color: #7f8c8d;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+.popup-content .warning{
+    color: red;
+}

@@ -1,0 +1,28 @@
+<div class="decision-step" #canvasContent (click)="onNodeClick($event)">
+    <div class="diamond" contenteditable="true">
+        <div *ngIf="data.inputs && data.inputs.length > 0">
+            <div *ngFor="let input of data.inputs; let i = index" class="fulltext">
+                <div class="text">{{ input.description }} </div>
+            </div>
+        
+        </div>
+    </div>
+    <div class="toolbar" *ngIf="showIcon" (click)="showPopup($event)">
+        <button class="icon-button">
+            <i class="fas fa-cog"></i>
+            <span class="tooltip-text">Show Properties</span>
+        </button>
+        <button class="icon-button" *ngIf="showIcon" (click)="deleteNode($event)">
+            <i class="fas fa-trash"></i>
+            <span class="tooltip-text">Delete Node</span>
+        </button>
+    </div>
+    <app-popup *ngIf="showPopupModal" [title]="popupData.title" [options]="popupData.options" [nodeType]="'decision'"
+        (close)="closePopup()" (onSubmit)="handlePopupSubmit($event)" [selectedTable]="popupData.selectedTable"
+      [selectedStateCondition]="popupData.selectedStateCondition"
+      [selectedColumnNames]="popupData.selectedColumnNames"
+      [selectedOperators]="popupData.selectedOperators"
+      [selectedColumnValues]="popupData.selectedColumnValues"
+      [singleColumnChecked]="popupData.singleColumnChecked"
+      [columnValueModes]="popupData.columnValueModes"></app-popup>
+</div>

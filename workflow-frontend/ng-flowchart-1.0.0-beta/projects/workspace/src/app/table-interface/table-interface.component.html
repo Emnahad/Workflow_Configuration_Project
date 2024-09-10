@@ -1,0 +1,58 @@
+<div *ngIf="showTable" class="table-container">
+    <div class="input-group rounded">
+        <input type="search" class="form-control rounded" placeholder="Search" aria-label="Search"
+            aria-describedby="search-addon" [(ngModel)]="searchText" (ngModelChange)="applyFilter()" />
+        <span class="input-group-text border-0" id="search-addon">
+            <i class="fas fa-search"></i>
+        </span>
+    </div>
+    <div *ngIf="dataSource.data.length === 0 && showEmptyState" class="empty-table-state">
+        <p class="NoData">No data available.</p>
+        <button mat-button class="TakeAction" (click)="handleEmptyStateButtonClick()">Choose a collection</button>
+    </div>
+
+    <table mat-table [dataSource]="dataSource" matSort class="mat-elevation-z8">
+        <ng-container *ngFor="let column of displayedColumns" [matColumnDef]="column">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header>{{ column }}</th>
+            <td mat-cell *matCellDef="let element; let i = index">
+                <div (click)="startEditing(element, column)" *ngIf="!isEditing(element, column)">
+                    {{element[column] }}
+                </div>
+                <mat-form-field *ngIf="isEditing(element, column)" appearance="fill" class="edit-cell">
+                    <input matInput [(ngModel)]="element[column]" (ngModelChange)="onEdit(i, column, $event)" />
+                    <button mat-icon-button matSuffix (click)="CheckWorkflow(element,column)" class="check-button">
+                        <mat-icon>check</mat-icon>
+                        
+                    </button>
+                    
+                </mat-form-field>
+            <app-popup-check-result *ngIf="showPopupCheckResult" [checkHistoricListId]="checkHistoricListId"(canEditChange)="onCanEditChange($event)"(closePopup)="closePopup()"></app-popup-check-result>
+
+            </td>
+        </ng-container>
+
+
+        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+
+    <mat-paginator [pageSizeOptions]="[5, 10, 20]" showFirstLastButtons></mat-paginator>
+    <div class="SelectCollection">
+<button mat-button class="TakeAction" *ngIf="dataSource.data.length > 0" (click)="handleEmptyStateButtonClick()">Select
+    another collection</button>
+    </div>
+
+</div>
+<div *ngIf="showPopup" class="popup-overlay">
+    <div class="popup-content">
+        <h2>Select a collection</h2>
+        <div *ngFor="let collection of collections" class="field-checkbox collection">
+            <input type="radio" [id]="collection" [value]="collection" name="collection"
+                (change)="onRadioChange($event)">
+            <label class="collop" [for]="collection">{{ collection }}</label>
+        </div>
+        <button mat-button class="savepopup" (click)="confirmSelection()">Confirm</button>
+        <button mat-button class="savepopup" (click)="cancelSelection()">Cancel</button>
+    </div>
+</div>
+

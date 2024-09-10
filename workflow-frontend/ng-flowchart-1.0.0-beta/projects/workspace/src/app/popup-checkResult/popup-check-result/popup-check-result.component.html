@@ -1,0 +1,37 @@
+<!-- Loading indicator -->
+<div *ngIf="loading" class="loading-indicator">
+    Loading...
+</div>
+
+<!-- Display results if not loading -->
+<div *ngIf="!loading && checkHistoricList.length">
+    <div class="popup-overlay">
+        <div class="popup-content">
+            <h2>{{ checkHistoricList[0].checkName }}</h2>
+            <div *ngFor="let checkHistoric of checkHistoricList">
+
+                <h4>{{ checkHistoric.workflowTitle }}: </h4>
+
+                <!-- Check if workflowCheckResult exists before accessing its properties -->
+                <div *ngIf="checkHistoric.workflowCheckResult">
+                    <div *ngIf="!checkHistoric.workflowCheckResult.successResult">
+                        <h5>Error Messages: </h5>
+                        <p>{{ checkHistoric.workflowCheckResult.errorMessages }}</p>
+                        <p class="warning">The value can't be edited until you solve the error</p>
+                    </div>
+                    <div *ngIf="checkHistoric.workflowCheckResult.successResult">
+                        <h5>Success Result: </h5>
+                        <p>{{ checkHistoric.workflowCheckResult.successResult }}</p>
+                    </div>
+                </div>
+                <div *ngIf="!checkHistoric.workflowCheckResult">
+                    <p>No check results available.</p>
+                </div>
+            </div>
+
+            <button class="savepopup" (click)="onOkClick()">Ok</button>
+
+            <button class="savepopup" (click)="onCancelClick()">Cancel</button>
+        </div>
+    </div>
+</div>

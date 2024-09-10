@@ -1,0 +1,113 @@
+.decision-step {
+    .diamond {
+        background: white;
+        border: solid;
+        border-color: rgb(186, 205, 92);
+        border-style: ridge;
+        position: relative;
+        transform: rotate(45deg);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 0px;
+        box-sizing: border-box;
+        min-width: 100px;
+        min-height: 100px;
+        max-width: 120px;
+        max-height: 200px;
+        overflow: hidden;
+        .fulltext {
+            display: inline-flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 5px;
+            transform: rotate(-45deg);
+          }
+        
+          .text {
+            font-size: 13px;
+            word-wrap: break-word;
+            white-space: pre-wrap;
+            overflow-wrap: break-word;
+            max-width: 100%;
+            margin: 0;
+            padding: 0;
+            line-height: 1.2;
+            text-align: center;
+            display: inline-block;
+          }
+      }
+
+  
+  .toolbar {
+    position: absolute;
+    top: -20px;
+    
+    transform: translateX(-50%);
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    display: flex;
+    gap: 5px;
+    padding: 5px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    
+      
+  }
+
+  .toolbar button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    outline: none;
+  }
+
+  .icon-button {
+    position: relative;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+  }
+
+  .icon-button .fas {
+    font-size: 16px;
+    color: rgb(186, 205, 92);
+  }
+
+  .icon-button .tooltip-text {
+    visibility: hidden;
+    width: 120px;
+    background-color: rgb(186, 205, 92);
+      color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+    
+  }
+
+  .icon-button .tooltip-text::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(186, 205, 92) transparent transparent transparent;
+  }
+
+  .icon-button:hover .tooltip-text {
+    visibility: visible;
+    opacity: 1;
+  }
+}

@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  frontend:
+    build:
+      context: ./workflow-frontend/ng-flowchart-1.0.0-beta
+    ports:
+      - "5000:8080"
+    networks:
+      - my-network
+    restart: always
+    environment:
+      - BACKEND_URL=http://localhost:5201/swagger/index.html
+
+  backend:
+    build:
+      context: ./workflow-backend-emnaha/workflow-backend-emnaha/ReportingProject
+    ports:
+      - "5201:8080"
+    restart: always
+    networks:
+      - my-network
+    
+
+
+networks:
+  my-network:
+    driver: bridge
+
+

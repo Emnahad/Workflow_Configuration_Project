@@ -1,0 +1,47 @@
+<div class="normal-step" #canvasContent (click)="onNodeClick($event)">
+    <div class="normal" contenteditable="true">
+        <div *ngIf="condition; else noCondition">
+            <div class="selected-state">
+                <span>{{ condition }}</span>
+                
+            </div>
+            <span>{{ data.inputs }}</span> <br>
+        </div>
+        <ng-template #noCondition>
+            <div>
+                <div *ngIf="data.inputs && data.inputs.length > 0">
+                    <div *ngFor="let input of data.inputs; let i = index">
+                        <span>{{ input.description }} </span> 
+                    </div>
+                    
+                </div>
+
+            </div>
+        </ng-template>
+        
+    </div>
+   
+    <div class="toolbar" >
+        <button class="icon-button" *ngIf="showIcon" (click)="showPopup($event)">
+            <i class="fas fa-cog"></i>
+            <span class="tooltip-text">Show Properties</span>
+        </button>
+        <button class="icon-button" *ngIf="showIcon" (click)="deleteNode($event)">
+            <i class="fas fa-trash"></i>
+            <span class="tooltip-text">Delete Node</span>
+        </button>
+    </div>
+    <app-popup *ngIf="showPopupModal" [title]="popupData.title" [options]="popupData.options" [nodeType]="'Log'"
+        (close)="closePopup()" (onSubmit)="handlePopupSubmit($event)" [selectedTable]="popupData.selectedTable"
+      [selectedStateCondition]="popupData.selectedStateCondition"
+      [selectedColumnNames]="popupData.selectedColumnNames"
+      [selectedColumnValues]="popupData.selectedColumnValues"
+      [singleColumnChecked]="popupData.singleColumnChecked" 
+      [columnValueModes]="popupData.columnValueModes"
+      [selectedActions]="popupData.selectedActions"
+      [newValue]="popupData.newValue"
+      [selectedTableColumns]="popupData.selectedTableColumns"
+      [nodeId]="this.nodeId">
+    </app-popup>
+
+</div>

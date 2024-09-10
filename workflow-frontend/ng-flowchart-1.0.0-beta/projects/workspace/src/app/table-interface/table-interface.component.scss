@@ -1,0 +1,261 @@
+/*-------------Popup Desing----------------*/
+.popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+
+.popup-content {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.collection {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 12px;
+}
+
+.collection input {
+    margin-right: 8px;
+}
+
+.savepopup {
+    margin: 10px;
+}
+
+.popup-content h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+}
+
+.popup-content label {
+    font-size: 16px;
+}
+
+.popup-content button {
+    background-color: #bae152;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 11px;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.popup-content button:hover {
+    background-color: #a0b450;
+    transform: scale(1.05);
+}
+
+.popup-content button:last-of-type {
+    background-color: #bae152;
+}
+
+.popup-content button:last-of-type:hover {
+    background-color: #a0b450;
+}
+
+.popup-content button:focus {
+    outline: none;
+}
+
+.collop {
+    margin-bottom: 0px;
+}
+
+/*-------------Table Desing----------------*/
+.table-container {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    width: 100%;
+    overflow-x: auto;
+}
+
+
+
+.mat-row:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.mat-row:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+.mat-mdc-cell {
+    border-bottom-color: var(--mat-table-row-item-outline-color, rgba(0, 0, 0, 0.12));
+    border-bottom-width: var(--mat-table-row-item-outline-width, 1px);
+    border-bottom-style: solid;
+    letter-spacing: var(--mat-table-row-item-label-text-tracking);
+    line-height: inherit;
+    max-width: 100px;
+    overflow-x: auto;
+}
+
+.mat-mdc-header-row {
+    background-color: #f9f9f9;
+}
+
+.mat-mdc-cell,
+.mat-mdc-header-cell {
+    border-bottom-color: var(--mat-table-row-item-outline-color, rgba(0, 0, 0, 0.12));
+    border-bottom-width: var(--mat-table-row-item-outline-width, 1px);
+    border-bottom-style: solid;
+    letter-spacing: var(--mat-table-row-item-label-text-tracking);
+    line-height: inherit;
+    max-width: 100px;
+    overflow-x: hidden;
+    overflow-wrap: break-word;
+    white-space: normal;
+    word-break: break-word;
+    padding: 10px;
+    text-align: justify;
+}
+
+.mat-elevation-z8 {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ddd;
+    text-align: left;
+    padding: 10px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    table-layout: fixed;
+    --mat-table-row-item-outline-width: 2px;
+    margin: 0 auto;
+}
+
+.mat-paginator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.mat-paginator .mat-paginator-range-label {
+    margin: 0 10px;
+}
+
+.mat-paginator .mat-button-base {
+    margin: 0 5px;
+}
+
+.mat-mdc-paginator-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 8px;
+    width: 100%;
+    min-height: var(--mat-paginator-container-size);
+}
+
+.mat-mdc-paginator {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.mat-paginator .mat-button-base {
+    margin: 0 5px;
+}
+
+.mat-paginator .mat-paginator-range-label {
+    margin: 0 10px;
+}
+
+
+
+.save-button {
+
+    background-color: rgb(204, 218, 134);
+    border-radius: .25rem;
+    text-align: center;
+    white-space: nowrap;
+    height: 40px;
+    padding: .375rem .75rem;
+}
+
+.checkButton {
+    background-color: rgb(204, 218, 134);
+    border-radius: .25rem;
+    text-align: center;
+    white-space: nowrap;
+    height: 40px;
+    padding-top: 6px;
+    cursor: pointer;
+    margin-left: 25px;
+}
+
+.TakeAction {
+    padding: 10px 20px;
+    background-color: rgb(186, 205, 92);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+    display: flex;
+        justify-content: center;
+        align-items: center;
+}
+.SelectCollection{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+}
+.empty-table-state {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+.NoData {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.edit-cell {
+    display: flex;
+    align-items: center;
+}
+
+.check-button {
+    background-color: rgb(204, 218, 134);
+    border-radius: .25rem;
+    text-align: center;
+    height: 36px;
+    width: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin-left: 8px;
+}
+
+.check-button mat-icon {
+    font-size: 20px;
+}

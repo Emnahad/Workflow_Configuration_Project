@@ -1,0 +1,15 @@
+# Use node image as builder
+FROM node:18.14 AS builder
+WORKDIR /app
+COPY package.json package-lock.json ./
+RUN npm  cache clear --force
+RUN npm install
+COPY . .
+RUN npm run build --prod
+
+# nginx server image
+FROM nginx:latest
+COPY ./default.conf /etc/nginx/conf.d/default.conf
+RUN rm -rf /usr/share/nginx/html/*
+COPY --from=builder /app/dist/workspace /usr/share/nginx/html
+EXPOSE 8080

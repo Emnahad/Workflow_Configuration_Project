@@ -1,0 +1,48 @@
+D:\BackEnd\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.csproj.AssemblyReference.cache
+D:\BackEnd\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.AssemblyInfoInputs.cache
+D:\BackEnd\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.AssemblyInfo.cs
+D:\BackEnd\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.csproj.CoreCompileInputs.cache
+D:\BackEnd\ReportingProject\Reporting.Core\bin\Debug\net8.0\Reporting.Core.deps.json
+D:\BackEnd\ReportingProject\Reporting.Core\bin\Debug\net8.0\Reporting.Core.dll
+D:\BackEnd\ReportingProject\Reporting.Core\bin\Debug\net8.0\Reporting.Core.pdb
+D:\BackEnd\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.dll
+D:\BackEnd\ReportingProject\Reporting.Core\obj\Debug\net8.0\refint\Reporting.Core.dll
+D:\BackEnd\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.pdb
+D:\BackEnd\ReportingProject\Reporting.Core\obj\Debug\net8.0\ref\Reporting.Core.dll
+D:\Downloads\ReportingProject\Reporting.Core\bin\Debug\net8.0\Reporting.Core.deps.json
+D:\Downloads\ReportingProject\Reporting.Core\bin\Debug\net8.0\Reporting.Core.dll
+D:\Downloads\ReportingProject\Reporting.Core\bin\Debug\net8.0\Reporting.Core.pdb
+D:\Downloads\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.csproj.AssemblyReference.cache
+D:\Downloads\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.AssemblyInfoInputs.cache
+D:\Downloads\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.AssemblyInfo.cs
+D:\Downloads\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.csproj.CoreCompileInputs.cache
+D:\Downloads\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.dll
+D:\Downloads\ReportingProject\Reporting.Core\obj\Debug\net8.0\refint\Reporting.Core.dll
+D:\Downloads\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.pdb
+D:\Downloads\ReportingProject\Reporting.Core\obj\Debug\net8.0\ref\Reporting.Core.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Core\bin\Debug\net8.0\Reporting.Core.deps.json
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Core\bin\Debug\net8.0\Reporting.Core.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Core\bin\Debug\net8.0\Reporting.Core.pdb
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.csproj.AssemblyReference.cache
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.AssemblyInfoInputs.cache
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.AssemblyInfo.cs
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.csproj.CoreCompileInputs.cache
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Core\obj\Debug\net8.0\refint\Reporting.Core.dll
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.pdb
+C:\Users\Emna Haddar\Desktop\workflow-backend\ReportingProject\Reporting.Core\obj\Debug\net8.0\ref\Reporting.Core.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Core\bin\Debug\net8.0\Reporting.Core.deps.json
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Core\bin\Debug\net8.0\Reporting.Core.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Core\bin\Debug\net8.0\Reporting.Core.pdb
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.csproj.AssemblyReference.cache
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.AssemblyInfoInputs.cache
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.AssemblyInfo.cs
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.csproj.CoreCompileInputs.cache
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Core\obj\Debug\net8.0\refint\Reporting.Core.dll
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Core\obj\Debug\net8.0\Reporting.Core.pdb
+D:\Downloads\workflow-backend-emnaha\workflow-backend-emnaha\ReportingProject\Reporting.Core\obj\Debug\net8.0\ref\Reporting.Core.dll
